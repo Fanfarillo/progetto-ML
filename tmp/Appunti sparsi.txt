@@ -54,4 +54,4 @@ e) Locally Weighted Regression
 f) Gradient Boosting
 g) Rete neurale (con phi() == combinazione lineare e h() == RELU, sigmoide, tanh)
 
--> Sia nella classificazione che nella regressione si possono effettuare gli esperimenti sia con PDA che senza PDA.
+-> Sia nella classificazione che nella regressione si possono effettuare gli esperimenti sia con PCA che senza PCA.
