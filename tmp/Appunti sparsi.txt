@@ -43,7 +43,9 @@ c) SVM --> sia lineare (kernel = prodotto scalare phi(x_1)*phi(x_2)), sia con ke
 d) Regressione softmax
 e) Classificazione fatta con l'appoggio della regressione (funzione discriminante)
 f) Adaboost
-g) Rete neurale (con phi() == softmax e h() == RELU, sigmoide, tanh)
+g) Kernel Density Estimation
+h) k-Nearest Neighbors
+i) Rete neurale (con phi() == softmax e h() == RELU, sigmoide, tanh)
 
 REGRESSIONE
 a) Regressione lineare
