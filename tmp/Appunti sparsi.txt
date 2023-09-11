@@ -37,7 +37,8 @@ Libreria di machine learning di Python citata nel paper: Scikit-learn.
 NOTA 13
 KDE dobbiamo effettuare la cross_val a mano tenere traccia del F1 per ogni iterazione e inseguito creiamo un grafico boxplot per i vari kernel
 
-
+NOTA 14
+vedere se sulle heatmap si può: decidere la cifra decimale del valore sui blocchi, cercare di uniformare il colore per tutti i blocchi
 
 
 CLASSIFICAZIONE
