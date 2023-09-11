@@ -34,6 +34,10 @@ Metriche citate nel paper per valutare le performance dei classificatori: F1-sco
 NOTA 12
 Libreria di machine learning di Python citata nel paper: Scikit-learn.
 
+NOTA 13
+KDE dobbiamo effettuare la cross_val a mano tenere traccia del F1 per ogni iterazione e inseguito creiamo un grafico boxplot per i vari kernel
+
+
 
 
 CLASSIFICAZIONE
