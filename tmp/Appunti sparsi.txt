@@ -42,6 +42,7 @@ vedere se sulle heatmap si può: decidere la cifra decimale del valore sui blocc
 
 NOTA 15
 per i grafici in cui bisogna far vedere insiemi sull'asse delle x non continui dove però esistono punti su cui é possibile variare x utilizzare uno scatter plot
+
 Link utili:
 macro/micro: https://www.evidentlyai.com/classification-metrics/multi-class-metrics#micro-averaging
 l1/l2: https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
