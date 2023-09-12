@@ -40,6 +40,8 @@ KDE dobbiamo effettuare la cross_val a mano tenere traccia del F1 per ogni itera
 NOTA 14
 vedere se sulle heatmap si può: decidere la cifra decimale del valore sui blocchi, cercare di uniformare il colore per tutti i blocchi
 
+NOTA 15
+per i grafici in cui bisogna far vedere insiemi sull'asse delle x non continui dove però esistono punti su cui é possibile variare x utilizzare uno scatter plot
 
 CLASSIFICAZIONE
 a) GDA --> sia LDA che QDA
